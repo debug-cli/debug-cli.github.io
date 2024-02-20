@@ -1,2 +1,2 @@
-# website
-code to my website, this is so i can use the github.io feature
+# <img src="https://pizzaboxer.xyz/img/icon-circle.png" width="48"> pizzaboxer.xyz
+Source code for my personal website. Not much else to it. Used to be static, but I wanted to do cool things with it so it now uses ASP.NET Core 6.
